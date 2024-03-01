@@ -1,12 +1,31 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap')
 
+
+body{
+    margin: 0;
 }
 header{
-
+margin: 50px 135px;
 }
 main{
 
 }
 footer{
+    background: rgba(19, 19, 24, 0.05);
+    height: 502px;
+}
+/* shared styles */
+.orange{
+    color: #FF5400;
+}
+.btn{
 
-}v
+}
+h1{
+    
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    }
